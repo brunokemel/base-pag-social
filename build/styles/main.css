@@ -23,18 +23,6 @@ li {
   flex-direction: column;
   justify-content: center;
 }
-@media (max-width: 767px) {
-  .container {
-    max-width: 70%;
-    background-color: red;
-  }
-}
-@media (min-widtch: 768px)(max-width: 1023px) {
-  .container {
-    max-width: 80%;
-    background-color: yellowgreen;
-  }
-}
 header {
   padding-bottom: 24px;
 }
